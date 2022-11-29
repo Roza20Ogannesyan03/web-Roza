@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="grid">
+            <div class="item"><img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNRBxZ2aC9ZyI0HYA7yOp49R0wc9uqyCP9Q&usqp=CAU"
+                    alt=""></div>
+            <div class="item"><img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjI_5uCuisolicA7SU5EC6poyJQE944pkHjkGbogYmfzxYW3zj8LtggMIcRwiAcpyIjU&usqp=CAU"
+                    alt=""></div>
+            <div class="item"><img
+                    src="https://img1.akspic.ru/previews/1/3/5/8/6/168531/168531-osen-list-vetv-derevo-prirodnyj_landshaft-360x640.jpg"
+                    alt=""></div>
+            <div class="item"><img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ36558964uSr9e_ZaQzAkIxp4Kak3lELWuiQ&usqp=CAU"
+                    alt=""></div>
+            <div class="item"><img
+                    src="https://img1.akspic.ru/previews/6/3/1/9/6/169136/169136-apelsin-osen-list-klenovyj_list-drevesina-360x640.jpg"
+                    alt=""></div>
+            <div class="item"><img
+                    src="https://img1.akspic.ru/previews/0/9/4/7/6/167490/167490-osennie_derevya_korichnevye-osen-list-derevo-vetv-360x640.jpg"
+                    alt=""></div>
+            <div class="item"><img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DTcsNofeCkwqVn4hLlOS57lr0vhGHoirKQ&usqp=CAU"
+                    alt=""></div>
+            <div class="item"><img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvSkIR_ITnKbotFMufs0ezKznvaToT1Haiw&usqp=CAU"
+                    alt=""></div>
+            <div class="item"><img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtodLu8vt2-kYGfnR7u8kTYeW8wziDcJuiTQ&usqp=CAU"
+                    alt=""></div>
+        </div>
+        <div class="modal">
+            <img src="" alt="">
+        </div>
+    </div>
+    <script>
+        var grid = document.querySelectorAll(".item");
+        var modal = document.querySelector(".modal");
+        var modalImg = document.querySelector(".modal img");
+
+        grid.forEach(item => {
+            item.addEventListener("click", event => {
+
+                modal.style.display = "block";
+                modalImg.src = event.target.src;
+            })
+        });
+        modal.addEventListener("click", function () {
+            modal.style.display = "none";
+        });
+
+    </script>
+</body>
+
+</html>
