@@ -1,0 +1,66 @@
+.main {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+}
+
+.field {
+    width: 350px;
+    padding: 20px 0;
+    border-radius: 15px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.field__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 85%;
+}
+
+.content-olina {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+
+}
+
+input {
+    width: 90%;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.registr {
+    font-size: 31px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.log-pas {
+    font-weight: 500;
+    font-size: 21px;
+    margin: 5px;
+}
+
+input[type="text"] {
+    font-size: 21px;
+}
+
+input[type="password"] {
+    font-size: 21px;
+}
+
+button {
+    background-color: transparent;
+    border: 2px solid black;
+    width: 80%;
+    height: 30px;
+    font-size: 21px;
+}
