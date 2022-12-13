@@ -1,33 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
-</head>
-<body>
-    <main>
-        <form onsubmit="submitForm(event)" class="field">
-            <div class="field__content">
-            <p class="registr">Регистрация</p>
-            <div class="content-olina">
+    <link rel="stylesheet" href="style.css" />
+   
+  </head>
+  <body>
+   
+      <form onsubmit="submitForm(event)" class="field">
+        <div class="field__content">
+          <p class="registr">Регистрация</p>
+          <div class="content-olina">
             <p class="log-pas">Логин</p>
-            <input type="text" name="login" id="login">
+            <input type="text" name="login" id="login" />
             <p class="form__errorsLogin"></p>
             <p class="log-pas">Пароль</p>
-            <input type="password" name="password" id="password">
+            <input type="password" name="password" id="password" />
             <p class="form__errorsPassword"></p>
             <p class="log-pas">Подтвердите пароль</p>
-            <input type="password" name="password-repeat" id="password-repeat">
+            <input
+              type="password"
+              name="password-repeat"
+              id="password-repeat"
+            />
             <p class="form__errorsPassword_repeat"></p>
+          </div>
+          <div class="captcha">
+            <div class="task"></div>
+            <input type="text" name="" id="" class="ans">
+          </div>
+          <button class="btn">Зарегистрировать</button>
         </div>
-        <button class="btn">Зарегистрировать</button>
-        
-    </div>
-        </div>
-    </main>
-</body>
+      </form>
+      <script src="captcha.js"></script>
+      <script src="script.js"></script>
+  </body>
 </html>
