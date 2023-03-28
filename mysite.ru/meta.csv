@@ -1,0 +1,71 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7708234640-okato
+title,"Общероссийский классификатор объектов административно-территориального деления (ОКАТО)"
+description,"Общероссийский классификатор объектов административно-территориального деления ОКАТО"
+creator,"Федеральная служба государственной статистики"
+created,20180905
+modified,20230327
+subject,"Общероссийский классификатор"
+format,CSV
+provenance,"с учетом изменения 482/2023"
+valid,20231231
+publishername,"Апатова Ирина Петровна"
+publisherphone,"+7 (495) 568-00-42 РґРѕР±. 99732"
+publishermbox,ca_apatovaip@gks.ru
+data-20230327-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20230327-structure-20140709.csv
+data-20230228-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20230228-structure-20140709.csv
+data-20221219-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20221219-structure-20140709.csv
+data-20221026-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20221026-structure-20140709.csv
+data-20220627-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20220627-structure-20140709.csv
+data-20220425-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20220425-structure-20140709.csv
+data-20220328-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20220328-structure-20140709.csv
+data-20220128-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20220128-structure-20140709.csv
+data-20211228-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20211228-structure-20140709.csv
+data-20211201-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20211201-structure-20140709.csv
+data-20210801-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20210801-structure-20140709.csv
+data-20210701-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20210701-structure-20140709.csv
+data-20210604-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20210604-structure-20140709.csv
+data-20210401-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20210401-structure-20140709.csv
+data-20210225-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20210225-structure-20140709.csv
+data-20210201-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20210201-structure-20140709.csv
+data-20210112-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20210112-structure-20140709.csv
+data-20201101-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20201101-structure-20140709.csv
+data-20201001-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20201001-structure-20140709.csv
+data-20200901-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20200901-structure-20140709.csv
+data-20200701-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20200701-structure-20140709.csv
+data-20200601-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20200601-structure-20140709.csv
+data-20200501-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20200501-structure-20140709.csv
+data-20200401-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20200401-structure-20140709.csv
+data-20200301-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20200301-structure-20140709.csv
+data-20200110-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20200110-structure-20140709.csv
+data-20191224-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20191224-structure-20140709.csv
+data-20191206-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20191206-structure-20140709.csv
+data-20190911-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20190911-structure-20140709.csv
+data-20181121-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20181121-structure-20140709.csv
+data-20181102-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20181102-structure-20140709.csv
+data-20180824-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20180824-structure-20140709.csv
+data-20180615-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20180615-structure-20140709.csv
+data-20180426-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20180426-structure-20140709.csv
+data-20180228-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20180228-structure-20140709.csv
+data-20180129-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20180129-structure-20140709.csv
+data-20180110-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20180110-structure-20140709.csv
+data-20171114-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20171114-structure-20140709.csv
+data-20171001-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20171001-structure-20140709.csv
+data-20170801-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20170801-structure-20140709.csv
+data-20170506-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20170506-structure-20140709.csv
+data-20170414-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20170414-structure-20140709.csv
+data-20170201-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20170201-structure-20140709.csv
+data-20161220-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20161220-structure-20140709.csv
+data-20161102-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20161102-structure-20140709.csv
+data-20160701-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20160701-structure-20140709.csv
+data-20160210-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20160210-structure-20140709.csv
+data-20151223-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20151223-structure-20140709.csv
+data-20151001-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20151001-structure-20140709.csv
+data-20150605-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20150605-structure-20140709.csv
+data-20150317-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20150317-structure-20140709.csv
+data-20150226-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20150226-structure-20140709.csv
+data-20150122-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20150122-structure-20140709.csv
+data-20140709-structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/data-20140709-structure-20140709.csv
+data-20140709-structure-20140709.zip,https://rosstat.gov.ru/opendata/7708234640-okato/data-20140709-structure-20140709.zip
+structure-20140709.csv,https://rosstat.gov.ru/opendata/7708234640-okato/structure-20140709.csv
